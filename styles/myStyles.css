@@ -1,0 +1,44 @@
+/*Kaleb Jensen 4/14*/
+/*mycustomstyles*/
+.navBackground {
+    background-color: #138086;
+}
+
+.navText {
+    color: #dbeff3;
+    text-align: center;
+    font-size: 3rem;
+
+}
+
+.subnavText {
+    color: #dbeff3;
+    text-align: center;
+    font-style: italic;
+    font-size: large;
+    }
+
+li    {
+    color: #17275e;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    }
+
+.TabHead {
+    background-color: #138086;
+    color: #dbeff3;
+    text-align: right;
+    background-image: none;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.centertext {
+    color: aquamarine;
+}
+
+.maintext {
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
+.mainBackground {
+    background-color: #138086;
+}

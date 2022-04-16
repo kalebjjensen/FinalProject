@@ -1,0 +1,43 @@
+/*Kaleb Jensen 4/15*/
+/*myCustomStyles*/
+
+header {
+top: 5px;
+right: 5px;
+left: 5px;
+height: 50px;
+text-align: right;
+position: absolute;
+}
+
+.leftmenu {
+top: 64px;
+left: 5px;
+width: 100px;
+bottom: 64px;
+position: absolute;
+padding-top: 10px;
+}
+
+body {
+top: 64px;
+bottom: 160px;
+right: 10px;
+left: 110px;
+position: absolute;
+}
+
+footer {
+bottom: 5px;  
+left: 5px;
+right: 5px;
+height: 150px;
+position: absolute;
+}
+
+.iframe-container {
+position: relative;
+width: 100%;
+padding-bottom: 56.25%;
+height: 0;
+}
